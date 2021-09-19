@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tinder-link-swipe/static/css/main.cf256d17.chunk.css",
+    "main.js": "/tinder-link-swipe/static/js/main.709875d1.chunk.js",
+    "main.js.map": "/tinder-link-swipe/static/js/main.709875d1.chunk.js.map",
+    "runtime-main.js": "/tinder-link-swipe/static/js/runtime-main.85e8874d.js",
+    "runtime-main.js.map": "/tinder-link-swipe/static/js/runtime-main.85e8874d.js.map",
+    "static/js/2.a4c80d5f.chunk.js": "/tinder-link-swipe/static/js/2.a4c80d5f.chunk.js",
+    "static/js/2.a4c80d5f.chunk.js.map": "/tinder-link-swipe/static/js/2.a4c80d5f.chunk.js.map",
+    "static/js/3.d55cd050.chunk.js": "/tinder-link-swipe/static/js/3.d55cd050.chunk.js",
+    "static/js/3.d55cd050.chunk.js.map": "/tinder-link-swipe/static/js/3.d55cd050.chunk.js.map",
+    "index.html": "/tinder-link-swipe/index.html",
+    "static/css/main.cf256d17.chunk.css.map": "/tinder-link-swipe/static/css/main.cf256d17.chunk.css.map",
+    "static/js/2.a4c80d5f.chunk.js.LICENSE.txt": "/tinder-link-swipe/static/js/2.a4c80d5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85e8874d.js",
+    "static/js/2.a4c80d5f.chunk.js",
+    "static/css/main.cf256d17.chunk.css",
+    "static/js/main.709875d1.chunk.js"
+  ]
+}
